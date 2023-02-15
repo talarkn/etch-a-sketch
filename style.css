@@ -30,6 +30,7 @@ button:hover {
     height: 450px;
     width: 450px;
     margin-top: 30px;
+    border: solid rgb(86, 86, 86);
 }
 
 .grid-row {
@@ -38,7 +39,7 @@ button:hover {
 }
 
 .grid {
-    border: solid black;
+    border: solid 0.5px rgb(199, 199, 199);
     flex: 1 1 auto;
 }
 
