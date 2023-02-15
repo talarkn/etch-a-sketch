@@ -20,7 +20,7 @@ btn.addEventListener('click', () => {
         }
     }
     else {
-        prompt('Cannot input a number higher than 100. Try again!');
+        alert('Cannot input a number higher than 100. Try again!');
     }
 
     const grids = document.querySelectorAll('.grid');
