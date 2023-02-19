@@ -33,6 +33,7 @@ button {
 button:hover {
     background-color: rgb(130, 188, 250);
     color: black;
+    cursor: pointer;
 }
 
 .grid-container, .grid-row {
