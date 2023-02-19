@@ -11,6 +11,10 @@ h1 {
     font-size: 50px;
 }
 
+.buttons {
+    flex: 1 2 auto;
+}
+
 button {
     padding: 8px 15px;
     margin: 30px 20px;
