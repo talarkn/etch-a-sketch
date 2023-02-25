@@ -73,11 +73,3 @@ button:hover {
     border: solid 0.5px rgb(244, 244, 244);
     flex: 1 1 auto;
 }
-
-.grid-color {
-    background-color: blue;
-}
-
-.grid-black {
-    background-color: black;
-}
