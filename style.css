@@ -53,7 +53,7 @@ button {
     padding: 10px 15px;
     font-size: 15px;
     border-radius: 5px;
-    border: solid black;
+    border: 1px solid black;
 }
 
 button:hover {
@@ -74,7 +74,7 @@ button:hover {
 .grid-container {
     flex-direction: column;
     height: 600px;
-    border: solid rgb(104, 100, 100);
+    border: 1px solid rgb(104, 100, 100);
     background-color: white;
     flex: 0 0 600px;
 }
