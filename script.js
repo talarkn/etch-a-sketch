@@ -36,7 +36,7 @@ sqrBtn.addEventListener('click', () => {
     if (sqrs === 0 || sqrs > 100) {
     sqrs = Number(prompt('How many squares?'));
     
-    if (sqrs < 100) {
+    if (sqrs <= 100) {
         for (let i = 0; i < sqrs; i++) {
             gridRow = document.createElement('div'); // add these outside the for loops? Before them?
             gridRow.classList.toggle('grid-row');
